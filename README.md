@@ -67,8 +67,8 @@ No he podido Hacer mi solución con las carpetas porque no me pude dar el tiempo
 Dejo la URL del repositorio para no Olvidarme y completarlo más adelante.
 
 ![image.png](imagenesReadMe/image%206.png)
-
-**table = new JTable();
+```java
+table = new JTable();
         table.setModel(new DefaultTableModel(
             new Object[][] {
                 {"xxxx1","Pepe", "editar"},//filas
@@ -89,8 +89,8 @@ Dejo la URL del repositorio para no Olvidarme y completarlo más adelante.
                 String numDni = (String) table.getValueAt(2, 0); //OBTIENE EL VALOR DE LA FILA Y LA COLUMNA
                 JOptionPane.*showInputDialog*(contentPane, "confirma editar", numcolumnas + " : " + numDni + ", numero de fila: " + ++numFila );
             }
-        });**
-
+        });
+```
 ![image.png](imagenesReadMe/image%207.png)
 
 ![image.png](imagenesReadMe/image%208.png)
@@ -166,8 +166,8 @@ y necesitba hacerlo porque debia mandar el modelo que almacena los datos del alu
 ![image.png](imagenesReadMe/image%2018.png)
 
 ![image.png](imagenesReadMe/image%2019.png)
-
-**public static void main(String[] args) {
+```java
+public static void main(String[] args) {
 		EventQueue.*invokeLater*(new Runnable() {
 			public void run() {
 				try {
@@ -178,7 +178,8 @@ y necesitba hacerlo porque debia mandar el modelo que almacena los datos del alu
 				}
 			}
 		});
-	}**
+	}
+```
 
 Eso debería quitarlo, debido a que lo voy a instanciar el formulario con el botón de crear. Pero lo fui dejando un rato porque no me dejaba seguir con el diseño
 
@@ -187,9 +188,9 @@ Luego opté un diseño con GridLayout ya que es JLabel - JTextField
 ![image.png](imagenesReadMe/image%2020.png)
 
 ![image.png](imagenesReadMe/image%2021.png)
-
-***java.awt.GridLayout.GridLayout(int rows, int cols, int hgap, int vgap)***
-
+```java
+java.awt.GridLayout.GridLayout(int rows, int cols, int hgap, int vgap)
+```
 son 4 filas + el botón = 5 y 2 columnas 
 
 ![image.png](imagenesReadMe/image%2022.png)

@@ -1,6 +1,25 @@
+
+# Índice
+
+1. [CRUD SIN MVC](#crud-sin-mvc)
+   - [Asignaturas, Grupo y Datos del Autor](#asignaturas-grupo-y-datos-del-autor)
+2. [Llegando a la Solución CRUD SIN MVC](#llegando-a-la-solución-crud-sin-mvc)
+3. [No la hice MVC porque…](#no-la-hice-mvc-porque)
+4. [Primeros Pasos antes de la Solución](#primeros-pasos-antes-de-la-solución)
+5. [Cambios para el CRUD SIN MVC Comenzando Tarea](#cambios-para-el-crud-sin-mvc-comenzando-tarea)
+   - [CREATE](#create)
+   - [READ](#read)
+   - [UPDATE](#update)
+   - [DELETE](#delete)
+6. [XAMP](#xamp)
+7. [JTABLE](#jtable)
+
+
+
+
 # CRUD SIN MVC
 
-# Información del Proyecto
+# asignaturas grupo y datos del autor
 
 | **Campo**         | **Detalles**                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
@@ -9,6 +28,9 @@
 | **Nombre**         | Emanuel Alejandro Lima Soto                                                |
 | **Notion Page**    | [CRUD SIN MVC](https://glitter-knave-762.notion.site/CRUD-SIN-MVC-1daaa0187ce280c9a314f2cabaa9117f?pvs=4) |
 | **GitHub**         | [Crud-Instituto-Java](https://github.com/alicenon/Crud-Instituto-Java)      |
+
+
+
 
 # LLEGANDO A LA SOLUCIÓN CRUD SIN MVC
 

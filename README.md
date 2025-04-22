@@ -1,10 +1,14 @@
 # CRUD SIN MVC
 
-Asignaturas: PROGRAMACIÓN (https://www.notion.so/PROGRAMACI-N-11aaa0187ce2810a874df38b7c463768?pvs=21)
-Grupo: DA1D1E
-Nombre: Emanuel Alejandro Lima Soto
-Notion Page: https://glitter-knave-762.notion.site/CRUD-SIN-MVC-1daaa0187ce280c9a314f2cabaa9117f?pvs=4
-GitHub: https://github.com/alicenon/Crud-Instituto-Java
+# Información del Proyecto
+
+| **Campo**         | **Detalles**                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Asignatura**     | [PROGRAMACIÓN](https://www.notion.so/PROGRAMACI-N-11aaa0187ce2810a874df38b7c463768?pvs=21) |
+| **Grupo**          | DA1D1E                                                                     |
+| **Nombre**         | Emanuel Alejandro Lima Soto                                                |
+| **Notion Page**    | [CRUD SIN MVC](https://glitter-knave-762.notion.site/CRUD-SIN-MVC-1daaa0187ce280c9a314f2cabaa9117f?pvs=4) |
+| **GitHub**         | [Crud-Instituto-Java](https://github.com/alicenon/Crud-Instituto-Java)      |
 
 # LLEGANDO A LA SOLUCIÓN CRUD SIN MVC
 
